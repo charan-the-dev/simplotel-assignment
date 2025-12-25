@@ -33,6 +33,7 @@ button {
     border: none;
     outline: none;
     cursor: pointer;
+    color: #000;
 
     &:hover {
         filter: brightness(90%);
